@@ -11,7 +11,7 @@ class TestHW1(unittest.TestCase):
             ("Case 5", (25.0, 5.5, 5.4), "Thả cá"),
             ("Case 6", (25.0, 5.5, 5.5), "Thả cá"),
             ("Case 7", (25.0, 5.5, 5.6), "Lỗi input"),
-            ("Case 8", (19.9, 5.5, 4.0), "Không thả gì"),
+            ("Case 8", (19.9, 5.5, 4.0), "Lỗi input"),
             ("Case 9", (20.0, 5.5, 4.0), "Không thả gì"),
             ("Case 10", (20.1, 5.5, 4.0), "Không thả gì"),
             ("Case 11", (29.9, 5.5, 4.0), "Thả tôm"),
