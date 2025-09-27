@@ -37,9 +37,5 @@ int main()
         cout << "Thả tôm" << endl;
     }
 
-    else {
-        cout << "Không thả gì cả!" << endl;
-    }
-
     return 0;
 }
