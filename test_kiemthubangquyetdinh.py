@@ -1,5 +1,5 @@
 import unittest
-from hw1 import choose
+from hw1_fixed import choose
 
 class TestHW1(unittest.TestCase):
     def test_main(self):
